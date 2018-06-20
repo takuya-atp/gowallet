@@ -13,3 +13,4 @@
 pkg
 bin
 src/gowallet/vendor
+eth_private_net

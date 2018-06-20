@@ -23,12 +23,3 @@
 #   non-go = false
 #   go-tests = true
 #   unused-packages = true
-
-
-[[constraint]]
-  name = "github.com/urfave/cli"
-  version = "1.20.0"
-
-[prune]
-  go-tests = true
-  unused-packages = true
